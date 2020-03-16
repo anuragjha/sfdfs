@@ -184,19 +184,3 @@ If the checksum of the filechunk does not match with the metadata held in the me
 In the mean while, storage node that found a bad chunk sends a badchunk found message to controller. Controller sends back a heal bad chunk message which contains a list of storage nodes that also have the chunk. Storage node uses this list and ask for the chunk from the fellow storage nodes in the list.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-See the project spec here: https://www.cs.usfca.edu/~mmalensek/cs677/assignments/project-1.html
-
