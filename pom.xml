@@ -68,11 +68,16 @@
     </build>
 
     <dependencies>
-        <dependency>
+<!--         <dependency>
             <groupId>io.netty</groupId>
             <artifactId>netty-all</artifactId>
             <version>4.1.39.Final</version>
             <scope>compile</scope>
+        </dependency> -->
+        <dependency>
+            <groupId>io.netty</groupId>
+            <artifactId>netty-all</artifactId>
+            <version>[4.1.42,)</version>
         </dependency>
         <dependency>
             <groupId>com.google.protobuf</groupId>
