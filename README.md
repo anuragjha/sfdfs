@@ -1,4 +1,4 @@
-# Project: DFS With Probabilistic Routing Version SFDFS
+# Project: DFS With Probabilistic Routing Version - SFDFS
 
 In this project, we will build your own distributed file system (DFS) based on the technologies we’ve studied from Amazon, Google, and others. Our DFS will support multiple storage nodes responsible for managing data. Key features include:
 
